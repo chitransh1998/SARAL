@@ -15,8 +15,14 @@ efficiently record details of the incoming migrants for further surveillance and
 of relief measures.
 
 ## Data Collection
-1. ##### Incoming Migrant Data:
-   A digital form was created that captured personal details, skill information, and travel history of migrants, and field staff at 20 entry points into the district like railway stations and highways were trained to fill this form.   
-2. #### Stranded Migrant Data:
-  Call centers were set up to receive information on migrants stuck at various locations in the nation.   
-3. #### Demographic data of the region was obtained from ESRI (Environmental Systems Research Institute). 
+1. **Incoming Migrant Data**: A digital form was created that captured personal details, skill information, and travel history of migrants, and field staff at 20 entry points into the district like railway stations and highways were trained to fill this form. 
+2. **Stranded Migrant Data**: Call centers were set up to receive information on migrants stuck at various locations in the nation.   
+3. **Demographic data** of the region was obtained from ESRI (Environmental Systems Research Institute). 
+
+## Data Analysis
+A centralized real-time dashboard using a Geographical Information System tool - ArcGIS and Google AppScripts was created, featuring various geospatial views and trends.
+
+Major challenges were addressed as follows:
+1. **Resource Allocation**: Identifying the regions within the district where migrants will ultimately settle to facilitate the allocation of resources such as PPE kits, quarantine centers, and food distribution units. Using ArcGIS, density maps were generated to locate major clusters and determine the estimated number of migrants in each area.
+2. **Rescue Operations**: Visualizing the stranded population concentration across the country to help with bus route planning.
+3. **Containment Zone Mapping**: Managing the virus epicenters by mapping the active containment zones and analyzing demographics such as age distribution and population density to provide necessary resources to vulnerable sections. 
