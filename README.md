@@ -15,4 +15,8 @@ efficiently record details of the incoming migrants for further surveillance and
 of relief measures.
 
 ## Data Collection
-1. #### Incoming Migrant Data: 
+1. #### Incoming Migrant Data:
+A digital form was created that captured personal details, skill information, and travel history of migrants, and field staff at 20 entry points into the district like railway stations and highways were trained to fill this form. 
+2. #### Stranded Migrant Data:
+
+
