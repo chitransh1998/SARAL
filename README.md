@@ -21,9 +21,10 @@ of relief measures.
 
 ## Data Analysis
 A centralized real-time dashboard using a Geographical Information System tool - ArcGIS and Google AppScripts was created, featuring various geospatial views and trends.
+
 ![GitHub Logo](https://github.com/chitransh1998/SARAL/blob/main/Incoming%20Migrants%20-%20Panchayatwise.PNG?raw=true)
-*This is the dashboard of panchayatwise distribution on the map of Bokaro district of estimated incoming migrants across districts. Larger the circle in the geographic area, greater is the
-expected incoming migrant population. Major clusters can be identified using this. (Please note that this is an interactive dashboard with several advanced features).*
+*Figure1: This is the dashboard of panchayatwise distribution on the map of Bokaro district of estimated incoming migrants across districts. Larger the circle in the geographic area, greater is the expected incoming migrant population. Major clusters can be identified using this. (Please note that this is an interactive dashboard with several advanced features).*
+
 Major challenges were addressed as follows:
 1. **Resource Allocation**: Identifying the regions within the district where migrants will ultimately settle to facilitate the allocation of resources such as PPE kits, quarantine centers, and food distribution units. Using ArcGIS, density maps were generated to locate major clusters and determine the estimated number of migrants in each area.
 2. **Rescue Operations**: Visualizing the stranded population concentration across the country to help with bus route planning.
