@@ -102,11 +102,11 @@ We have also provided a search box with address, skill and gender filters to all
 The results were pleasing, and Bokaro district successfully sailed through the first wave of the pandemic with minimal damage. Moreover, the project received widespread recognition from national media and central government bodies for its ingenuity and effectiveness. The tools developed were replicated in other districts and served as a model for the State's disaster response efforts.
 
 **Media Links** 
-- [Times of India](https://timesofindia.indiatimes.com/city/ranchi/bokaro-admin-develops-system-to-facilitate-migrants-return/articleshow/75586514.cms)
-- [The Pioneer](https://www.dailypioneer.com/2020/state-editions/bokaro-admin-uses-saral-system-to-track-migrants----entry.html)
-- [Deccan Herald](https://www.deccanherald.com/india/bokaros-unique-project-that-managed-32000-migrants-861316.html)
+- [Times of India - Bokaro admin develops system to facilitate migrants return](https://timesofindia.indiatimes.com/city/ranchi/bokaro-admin-develops-system-to-facilitate-migrants-return/articleshow/75586514.cms)
+- [The Pioneer - Bokaro admin uses SARAL system to track migrants entry](https://www.dailypioneer.com/2020/state-editions/bokaro-admin-uses-saral-system-to-track-migrants----entry.html)
+- [Deccan Herald - Bokaro's Unique project that managed 32,000 migrants](https://www.deccanherald.com/india/bokaros-unique-project-that-managed-32000-migrants-861316.html)
 - [NITI Aayog](https://twitter.com/NITIAayog/status/1258662374325620737)
-- [Businessworld](https://www.businessworld.in/article/Smart-Administrative-Response-To-COVID-19-Crisis-In-Bokaro-Jharkhand/12-07-2020-296639/)
+- [Businessworld - Smart Administratie Response to COVID-19 Crisis in Bokaro, Jharkhand](https://www.businessworld.in/article/Smart-Administrative-Response-To-COVID-19-Crisis-In-Bokaro-Jharkhand/12-07-2020-296639/)
 
 **Personal Interview with Magazine - Pulse NITK**
-- [Meet Chitransh Lodha](https://pulse.nitk.ac.in/2020/07/11/a-conversation-with-chitransh-lodha/?amp=1)
+- [Meet Chitransh Lodha - NITK student who helped facilitate the safe return of migrants to Bokaro](https://pulse.nitk.ac.in/2020/07/11/a-conversation-with-chitransh-lodha/?amp=1)
