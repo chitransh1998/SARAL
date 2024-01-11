@@ -41,14 +41,15 @@ Major clusters of migrants are identified and logistics are planned accordingly.
 2. **Rescue Operations**: Visualizing the stranded population concentration across the country to help with bus route planning.
 
 ![GitHub Logo](https://github.com/chitransh1998/SARAL/blob/main/Stranded%20Migrants%20-districtwise.PNG?raw=true)
-*Map of India: Stranded Residents Districtwise *
+*Map of India: Stranded Residents Districtwise*
 
 ![GitHub Logo](https://github.com/chitransh1998/SARAL/blob/main/Stranded%20Migrants%20-statewise.PNG?raw=true)
-*Map of India: Stranded Residents Statewise *
+*Map of India: Stranded Residents Statewise*
 
 The above figures illustrate the distribution of stranded Bokaro residents by district and state. Larger circles represent higher numbers of stranded individuals. A total of 38,085 people were stranded, with 19,846 expected to return.
 
 3. **Containment Zone Mapping**: Managing the virus epicenters by mapping the active containment zones and analyzing demographics such as age distribution and population density to provide necessary resources to vulnerable sections.
+   
 ![GitHub Logo](https://github.com/chitransh1998/SARAL/blob/main/Hotspots.png?raw=true)
 *Map of Containment and Buffer Zones*
 
@@ -80,13 +81,13 @@ In the final stage of lockdown, we have a huge database of 13000 skilled and uns
 
 <figure>
 <img src="https://github.com/chitransh1998/SARAL/blob/main/Skill%20Mapping%20Bokaro.png?raw=true" width=50% height=50%>
-<figcaption>Skill Mapping Pie Chart</figcaption>
+<figcaption>Skill Mapping - Pie Chart</figcaption>
 </figure>
 
 We had also collected the consent of the people to work in MNREGA schemes and shockingly about 78% of the total number of people were interested, clearly highlighting the desperateness of the people to find livelihood opportunities.
 
 ![GitHub Logo](https://github.com/chitransh1998/SARAL/blob/main/Skill%20Mapping%20Bokaro%202.png?raw=true)
-*Skill Mapping Tabular*
+*Skill Mapping - Tabular*
 
 We developed a [web portal](https://tinyurl.com/kaamgaar-bokaro) which will act as a skill exchange centre for the district. We have populated it with the dataset of the migrant workforce we had with people belonging to various traits like carpentry, electricians, drivers, construction workers, tailors, cooks etc. In this portal we have also created separate sections for people to provide with bulk requests which our team handles specifically.
 
@@ -94,4 +95,5 @@ We have also provided a search box with address, skill and gender filters to all
 
 
 ![GitHub Logo](https://github.com/chitransh1998/SARAL/blob/main/Kaamgar%20Portal.png?raw=true)
+
 *Kaamgar Portal Homepage*
