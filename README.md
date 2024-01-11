@@ -6,7 +6,7 @@ About, 20,000 people stranded across the nation due to the lockdown belonging to
 ## Overview
 A system was designed to plan rescue operations for stranded migrants and efficiently record details of the incoming migrants for further surveillance and planning of relief measures.
 
-[Dashboard Demo](https://drive.google.com/file/d/1dTY1Clon8ZYSkrzEW1PdECXHkmBDeFjg/view?usp=drive_link)
+[Dashboard Demo](https://www.youtube.com/watch?v=f3ZOFVBPRRs)
 
 ## Data Collection
 1. **Incoming Migrant Data**: A digital form was created that captured personal details, skill information, and travel history of migrants, and field staff at 20 entry points into the district like railway stations and highways were trained to fill this form. 
