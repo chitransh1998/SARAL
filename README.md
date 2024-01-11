@@ -19,7 +19,7 @@ A centralized real-time dashboard using a Geographical Information System tool -
 ![GitHub Logo](https://github.com/chitransh1998/SARAL/blob/main/Incoming%20Migrants%20-%20Panchayatwise.PNG?raw=true)
 *Map of Bokaro District: Panchayatwise Distribution Map of Expected Incoming Migrants* 
 
-This is the dashboard of panchayatwise distribution on the map of Bokaro district of estimated incoming migrants across districts. Larger the circle in the geographic area, greater is the expected incoming migrant population. Major clusters can be identified using this. (Please note that this is a screenshot of an interactive dashboard with several advanced features).
+This is the dashboard of panchayatwise distribution on the map of Bokaro district of estimated incoming migrants across districts. Larger the circle in the geographic area, greater is the expected incoming migrant population. Major clusters can be identified using this. (Please note that this is a screenshot of an interactive dashboard with several advanced features - [Dashboard Link](https://tinyurl.com/kaamgaar-bokaro)).
 
 Major challenges were addressed as follows:
 1. **Resource Allocation**: Identifying the regions within the district where migrants will ultimately settle to facilitate the allocation of resources such as PPE kits, quarantine centers, and food distribution units. Using ArcGIS, density maps were generated to locate major clusters and determine the estimated number of migrants in each area.
