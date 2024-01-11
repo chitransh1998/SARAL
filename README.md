@@ -24,6 +24,7 @@ A centralized real-time dashboard using a Geographical Information System tool -
 
 ![GitHub Logo](https://github.com/chitransh1998/SARAL/blob/main/Incoming%20Migrants%20-%20Panchayatwise.PNG?raw=true)
 *Map of Bokaro District: Panchayatwise Distribution Map of Expected Incoming Migrants* 
+
 This is the dashboard of panchayatwise distribution on the map of Bokaro district of estimated incoming migrants across districts. Larger the circle in the geographic area, greater is the expected incoming migrant population. Major clusters can be identified using this. (Please note that this is a screenshot of an interactive dashboard with several advanced features).
 
 Major challenges were addressed as follows:
@@ -83,7 +84,7 @@ We were collecting the skill/professional data of the incoming migrants at the t
 
 In the final stage of lockdown, we have a huge database of 13000 skilled and unskilled migrant workforce within the Bokaro district. Now, the next challenge is to provide them jobs locally as because of the harassment and trauma these people had faced they wont be willing to return back to their source states. This is also in alignment with the vision of our Hon’ble Prime Minister Narendra Modi to make “vocal which is local”. This will give a huge boost to the industries present locally to start into new ventures and also manage their labour crunch because of the migrants of other states who have left Bokaro.
 
-![GitHub Logo](https://github.com/chitransh1998/SARAL/blob/main/Skill%20Mapping%20Bokaro.png?raw=true)
+![GitHub Logo](https://github.com/chitransh1998/SARAL/blob/main/Skill%20Mapping%20Bokaro.png?raw=true =250x250 )
 *Skill Mapping Pie Chart*
 
 We had also collected the consent of the people to work in MNREGA schemes and shockingly about 78% of the total number of people were interested, clearly highlighting the desperateness of the people to find livelihood opportunities.
