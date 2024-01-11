@@ -50,15 +50,18 @@ Major clusters of migrants are identified and logistics are planned accordingly.
 
 ![GitHub Logo](https://github.com/chitransh1998/SARAL/blob/main/Stranded%20Migrants%20-statewise.PNG?raw=true)
 *Map of India: Stranded Residents Statewise *
+
 The above figures illustrate the distribution of stranded Bokaro residents by district and state. Larger circles represent higher numbers of stranded individuals. A total of 38,085 people were stranded, with 19,846 expected to return.
 
 3. **Containment Zone Mapping**: Managing the virus epicenters by mapping the active containment zones and analyzing demographics such as age distribution and population density to provide necessary resources to vulnerable sections.
 ![GitHub Logo](https://github.com/chitransh1998/SARAL/blob/main/Hotspots.png?raw=true)
 *Map of Containment and Buffer Zones*
+
 A 3km region around the virus epicenter was designated as acontainment zone. The image shows a dedicated view from the main dashboard used for closely monitoring the status of containment zones
 
 ![GitHub Logo](https://github.com/chitransh1998/SARAL/blob/main/Demographics%20Containment%20Zone.png?raw=true)
 *Demographics for Containment Zone*
+
 Demographic data was leveraged to facilitate the distribution of essential supplies like sanitary pads and medicines inside the containment zones.
 
 ## Quarantine Management System
@@ -69,7 +72,10 @@ Demographic data was leveraged to facilitate the distribution of essential suppl
 ![GitHub Logo](https://github.com/chitransh1998/SARAL/blob/main/QMS.png?raw=true)
 *Home Quarantine Management Dashboard*
 
-**Details** Ground level workers or Sahiyas present in every village of the district were assigned the job of monitoring the health status and home quarantine of the migrants. But , there was no mechanism to check whether the Sahiyas were actually going to check all these migrants on a daily basis to ensure their home quarantine. We have more than 700 villages and 10-15000 people to monitor. So, we digitalized the process. We already had the contact details of the migrants so we provided them a pre filled web page with the names and lists of these migrants already written there. We also sent an OTP to all these migrants, then we instructed the Sahiya to write the OTP and enter it on our webpage beside the correct name. If the OTP is correct then they will automatically get a “Correct” message and “Wrong OTP” if the OTP is wrong. This ensured that the Sahiya actually went and checked on that person and this helped the administration strengthen its network on the ground level. Initially, there were low percentages of OTPs verified which helped the admin strict its vigil on such parts.
+**Solution** 
+- Ground level workers or Sahiyas present in every village of the district were assigned the job of monitoring the health status and home quarantine of the migrants. But,there was no mechanism to check whether the Sahiyas were actually going to check all these migrants on a daily basis to ensure their home quarantine.
+- We have more than 700 villages and 10-15000 people to monitor. So, we digitalized the process. We already had the contact details of the migrants so we provided them a pre filled web page with the names and lists of these migrants already written there. We also sent an OTP to all these migrants, then we instructed the Sahiya to write the OTP and enter it on our webpage beside the correct name.
+- If the OTP is correct then they will automatically get a “Correct” message and “Wrong OTP” if the OTP is wrong. This ensured that the Sahiya actually went and checked on that person and this helped the administration strengthen its network on the ground level. Initially, there were low percentages of OTPs verified which helped the admin strict its vigil on such parts.
 
 ## KAAMGAAR – Skill Mapping and Employment portal for Migrants
 
@@ -77,12 +83,12 @@ We were collecting the skill/professional data of the incoming migrants at the t
 
 In the final stage of lockdown, we have a huge database of 13000 skilled and unskilled migrant workforce within the Bokaro district. Now, the next challenge is to provide them jobs locally as because of the harassment and trauma these people had faced they wont be willing to return back to their source states. This is also in alignment with the vision of our Hon’ble Prime Minister Narendra Modi to make “vocal which is local”. This will give a huge boost to the industries present locally to start into new ventures and also manage their labour crunch because of the migrants of other states who have left Bokaro.
 
-![GitHub Logo](https://github.com/chitransh1998/SARAL/blob/main/QMS.png?raw=true)](https://github.com/chitransh1998/SARAL/blob/main/Skill%20Mapping%20Bokaro.png?raw=true)
+![GitHub Logo](https://github.com/chitransh1998/SARAL/blob/main/Skill%20Mapping%20Bokaro.png?raw=true)
 *Skill Mapping Pie Chart*
 
 We had also collected the consent of the people to work in MNREGA schemes and shockingly about 78% of the total number of people were interested, clearly highlighting the desperateness of the people to find livelihood opportunities.
 
-![GitHub Logo]([https://github.com/chitransh1998/SARAL/blob/main/QMS.png?raw=true](https://github.com/chitransh1998/SARAL/blob/main/Skill%20Mapping%20Bokaro%202.png?raw=true))
+![GitHub Logo](https://github.com/chitransh1998/SARAL/blob/main/Skill%20Mapping%20Bokaro%202.png?raw=true)
 *Skill Mapping Tabular*
 
 We developed a [web portal](https://tinyurl.com/kaamgaar-bokaro) which will act as a skill exchange centre for the district. We have populated it with the dataset of the migrant workforce we had with people belonging to various traits like carpentry, electricians, drivers, construction workers, tailors, cooks etc. In this portal we have also created separate sections for people to provide with bulk requests which our team handles specifically.
