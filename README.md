@@ -6,7 +6,7 @@ About, 20,000 people stranded across the nation due to the lockdown belonging to
 ## Overview
 A system was designed to plan rescue operations for stranded migrants and efficiently record details of the incoming migrants for further surveillance and planning of relief measures.
 
-[Explanation Video Link](https://tinyurl.com/kaamgaar-bokaro)
+[Dashboard Demo](https://drive.google.com/file/d/1dTY1Clon8ZYSkrzEW1PdECXHkmBDeFjg/view?usp=drive_link)
 
 ## Data Collection
 1. **Incoming Migrant Data**: A digital form was created that captured personal details, skill information, and travel history of migrants, and field staff at 20 entry points into the district like railway stations and highways were trained to fill this form. 
@@ -19,7 +19,7 @@ A centralized real-time dashboard using a Geographical Information System tool -
 ![GitHub Logo](https://github.com/chitransh1998/SARAL/blob/main/Incoming%20Migrants%20-%20Panchayatwise.PNG?raw=true)
 *Map of Bokaro District: Panchayatwise Distribution Map of Expected Incoming Migrants* 
 
-This is the dashboard of panchayatwise distribution on the map of Bokaro district of estimated incoming migrants across districts. Larger the circle in the geographic area, greater is the expected incoming migrant population. Major clusters can be identified using this. (Please note that this is a screenshot of an interactive dashboard with several advanced features - [Dashboard Link](https://tinyurl.com/kaamgaar-bokaro)).
+This is the dashboard of panchayatwise distribution on the map of Bokaro district of estimated incoming migrants across districts. Larger the circle in the geographic area, greater is the expected incoming migrant population. Major clusters can be identified using this. (Please note that this is a screenshot of an interactive dashboard with several advanced features - [Dashboard Demo](https://drive.google.com/file/d/1dTY1Clon8ZYSkrzEW1PdECXHkmBDeFjg/view?usp=drive_link).
 
 Major challenges were addressed as follows:
 1. **Resource Allocation**: Identifying the regions within the district where migrants will ultimately settle to facilitate the allocation of resources such as PPE kits, quarantine centers, and food distribution units. Using ArcGIS, density maps were generated to locate major clusters and determine the estimated number of migrants in each area.
