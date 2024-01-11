@@ -1,18 +1,12 @@
-# SARAL
-About Covid-19 response
+# SARAL - SAFE ARRIVAL AND ACCOMMODATION OF LABOR
 
-## Background: 
-About, 20,000 people stranded across the nation due to the lockdown belonging to Bokaro
-District. Bokaro district is in the state of Jharkhand, India with a population of about 25 Lakhs divided
-into two subdivisions, 9 blocks and 250 panchayats. These stranded people included labour,
-medical migrants, tourists, students etc. After the MHA guidelines, it was now possible for
-these people to be transported back to their native places. The main challenge was to plan
-the arrival of these people back into the district safely and also ensure their surveillance.
+## Problem Statement: 
+About, 20,000 people stranded across the nation due to the lockdown belonging to Bokaro District. Bokaro district is in the state of Jharkhand, India with a population of about 25 Lakhs divided into two subdivisions, 9 blocks and 250 panchayats. These stranded people included labour, medical migrants, tourists, students etc. After the MHA guidelines, it was now possible for these people to be transported back to their native places. The main challenge was to plan the arrival of these people back into the district safely and also ensure their surveillance.
 
 ## Overview
-A system was designed to plan rescue operations for stranded migrants and
-efficiently record details of the incoming migrants for further surveillance and planning
-of relief measures.
+A system was designed to plan rescue operations for stranded migrants and efficiently record details of the incoming migrants for further surveillance and planning of relief measures.
+
+[Explanation Video Link](https://tinyurl.com/kaamgaar-bokaro)
 
 ## Data Collection
 1. **Incoming Migrant Data**: A digital form was created that captured personal details, skill information, and travel history of migrants, and field staff at 20 entry points into the district like railway stations and highways were trained to fill this form. 
